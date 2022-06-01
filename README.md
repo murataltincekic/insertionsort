@@ -1,0 +1,2 @@
+# insertionsort
+patika projesi
